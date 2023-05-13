@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/TaskList.github.io/build/static/css/main.073c9b0a.css",
-    "main.js": "/TaskList.github.io/build/static/js/main.f8e38543.js",
-    "static/js/787.2c23d2f4.chunk.js": "/TaskList.github.io/build/static/js/787.2c23d2f4.chunk.js",
-    "static/media/logo.svg": "/TaskList.github.io/build/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/TaskList.github.io/build/index.html",
-    "main.073c9b0a.css.map": "/TaskList.github.io/build/static/css/main.073c9b0a.css.map",
-    "main.f8e38543.js.map": "/TaskList.github.io/build/static/js/main.f8e38543.js.map",
-    "787.2c23d2f4.chunk.js.map": "/TaskList.github.io/build/static/js/787.2c23d2f4.chunk.js.map"
+    "main.css": "/TaskList/build/static/css/main.073c9b0a.css",
+    "main.js": "/TaskList/build/static/js/main.04326b15.js",
+    "static/js/787.2c23d2f4.chunk.js": "/TaskList/build/static/js/787.2c23d2f4.chunk.js",
+    "static/media/logo.svg": "/TaskList/build/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/TaskList/build/index.html",
+    "main.073c9b0a.css.map": "/TaskList/build/static/css/main.073c9b0a.css.map",
+    "main.04326b15.js.map": "/TaskList/build/static/js/main.04326b15.js.map",
+    "787.2c23d2f4.chunk.js.map": "/TaskList/build/static/js/787.2c23d2f4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.f8e38543.js"
+    "static/js/main.04326b15.js"
   ]
 }
